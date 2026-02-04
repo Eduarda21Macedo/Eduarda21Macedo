@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá me chamo, Eduarda! 
 
-<!--
-**Eduarda21Macedo/Eduarda21Macedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação  
+💻 Foco em desenvolvimento (web / software / backend )  
+🚀 Em busca de estágio / primeira oportunidade na área
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Conhecimentos
+
+- **Engenharia de Software**
+  - Levantamento e análise de requisitos
+  - Modelagem de sistemas
+  - Documentação
+  - Desenvolvimento do projeto até a entrega final
+
+- Linguagens: Java, Python, JavaScript
+- Front-end: HTML, CSS
+- Back-end: Node.js
+- Banco de Dados: MySQL
+- Versionamento: Git, GitHub
+
+
+
+
+
+
+## 📫 Contato
+- LinkedIn: www.linkedin.com/in/eduarda-silva-5a2155233
+- Email: macedoeduarda434@gmail.com
