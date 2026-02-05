@@ -1,4 +1,4 @@
-# Olá me chamo, Eduarda! 
+# Olá me chamo , Eduarda! 
 
 🎓 Estudante de Ciência da Computação  
 💻 Foco em desenvolvimento (web / software / backend )  
